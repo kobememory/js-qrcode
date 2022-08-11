@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 🆕 Create new issue
+    url: http://www.baidu.com
+    about: The issue which is not created via http://new-issue.ant.design will be closed immediately.
+  - name: 🆕 创建一个新 Issue
+    url: http://www.baidu.com
+    about: 创建一个新 Issue!!!!!!!!
